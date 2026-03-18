@@ -9,12 +9,6 @@ At the macro level, I am interested in how to design markets and multi-agent env
 
 More broadly, I am particularly interested in connecting individual-level adaptation with system-level dynamics in settings where traditional assumptions may no longer hold.
 
-## Background
-
-Prior to coming to Canada, I spent the first 18 years of my life in Belgrade, Serbia, where I attended the [Mathematical Grammar School](https://www.mg.edu.rs/en) and competed in mathematics competitions. I later moved to Canada, where I completed my undergraduate studies in engineering at the [University of Toronto](https://www.utoronto.ca/).
-
-My current research focuses on socially relevant problems, though I still enjoy thinking about open problems in combinatorics and online algorithms.
-
 ## Publications & Preprints
 - **Why Open Source? A Game-Theoretic Analysis of the AI Race**  
   Andjela Mladenovic, Gauthier Gidel, Aaron Courville  
@@ -35,6 +29,12 @@ My current research focuses on socially relevant problems, though I still enjoy 
 - **Designing Fairly Fair Classifiers via Economic Fairness Notions**  
   Safwan Hossain, Andjela Mladenovic, Nisarg Shah  
   *WWW 2020*  
+
+## Background
+
+Prior to coming to Canada, I spent the first 18 years of my life in Belgrade, Serbia, where I attended the [Mathematical Grammar School](https://www.mg.edu.rs/en) and competed in mathematics competitions. I later moved to Canada, where I completed my undergraduate studies in engineering at the [University of Toronto](https://www.utoronto.ca/).
+
+My current research focuses on socially relevant problems, though I still enjoy thinking about open problems in combinatorics and online algorithms.
 
 ## Contact
 
