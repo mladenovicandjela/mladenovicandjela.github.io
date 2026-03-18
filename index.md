@@ -20,5 +20,3 @@ My current research focuses on socially relevant problems, though I still enjoy 
 ## Contact
 
 If you would like to help me procrastinate on my PhD research, you are very welcome to send me an email (with or without a fun math problem) at [andjela.mladenovic@mila.quebec](mailto:andjela.mladenovic@mila.quebec).
-
-[GitHub](https://github.com/mladenovicandjela)
