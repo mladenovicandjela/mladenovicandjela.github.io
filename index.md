@@ -11,7 +11,7 @@ More broadly, I am particularly interested in connecting individual-level adapta
 
 ## Publications & Preprints
 - **Why Open Source? A Game-Theoretic Analysis of the AI Race**  
-  Andjela Mladenovic, Gauthier Gidel, Aaron Courville  
+  Andjela Mladenovic, Aaron Courville, Gauthier Gidel  
   *Under review 2026* 
 
 - **A Persuasive Approach to Combating Misinformation**  
