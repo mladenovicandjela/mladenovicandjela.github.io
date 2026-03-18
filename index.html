@@ -29,6 +29,18 @@
       padding: 64px 28px 80px;
     }
 
+    /* NEW: side-by-side hero */
+    .hero {
+      display: flex;
+      align-items: flex-start;
+      gap: 40px;
+      margin-bottom: 24px;
+    }
+
+    .hero-text {
+      max-width: 500px;
+    }
+
     h1 {
       font-size: 40px;
       font-weight: 500;
@@ -38,15 +50,13 @@
 
     .intro {
       font-size: 20px;
-      margin-bottom: 32px;
+      margin-bottom: 16px;
       max-width: 36ch;
     }
 
     .portrait {
-      width: 240px;
-      max-width: 100%;
-      display: block;
-      margin: 24px 0 36px 0;
+      width: 220px;
+      flex-shrink: 0;
       filter: grayscale(100%);
       border: 1px solid var(--line);
     }
@@ -93,16 +103,28 @@
       .research {
         grid-template-columns: 1fr;
       }
+
+      .hero {
+        flex-direction: column;
+      }
+
+      .portrait {
+        width: 200px;
+      }
     }
   </style>
 </head>
 <body>
   <main class="page">
 
-    <h1>Andjela Mladenovic</h1>
-    <p class="intro">PhD student at Mila and the Université de Montréal.</p>
-
-    <img class="portrait" src="sajt.JPG" alt="Portrait" />
+    <!-- UPDATED HERO -->
+    <div class="hero">
+      <img class="portrait" src="sajt.JPG" alt="Portrait" />
+      <div class="hero-text">
+        <h1>Andjela Mladenovic</h1>
+        <p class="intro">PhD student at Mila and the Université de Montréal.</p>
+      </div>
+    </div>
 
     <section>
       <h2>Research</h2>
