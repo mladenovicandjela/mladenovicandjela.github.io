@@ -33,8 +33,6 @@ My current research focuses on socially relevant problems, though I still enjoy 
   Safwan Hossain, Andjela Mladenovic, Nisarg Shah  
   *WWW 2020*  
 
-For a full and up-to-date list, see my [Google Scholar](https://scholar.google.com/citations?user=DxqbeGoAAAAJ&hl=en).
-
 ## Contact
 
 If you would like to help me procrastinate on my PhD research, you are very welcome to send me an email (with or without a fun math problem) at [andjela.mladenovic@mila.quebec](mailto:andjela.mladenovic@mila.quebec).
