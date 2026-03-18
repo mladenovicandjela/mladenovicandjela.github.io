@@ -1,8 +1,5 @@
-# Andjela Mladenovic
-
 PhD student at [Mila](https://mila.quebec) and the [Université de Montréal](https://www.umontreal.ca/), advised by [Gauthier Gidel](https://gauthiergidel.github.io/) and [Aaron Courville](https://scholar.google.com/citations?hl=en&user=km6CP8cAAAAJ).
 
-## Research
 
 I am interested in questions at the intersection of AI alignment, multi-agent systems, and socially relevant deployment.
 
