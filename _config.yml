@@ -4,3 +4,5 @@ description: >
 theme: jekyll-theme-minimal
 logo: photo.jpg
 show_downloads: false
+github:
+  is_project_page: false
