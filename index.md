@@ -15,7 +15,7 @@ Prior to coming to Canada, I spent the first 18 years of my life in Belgrade, Se
 
 My current research focuses on socially relevant problems, though I still enjoy thinking about open problems in combinatorics and online algorithms.
 
-##Publications and preprints
+## Publications and preprints
 
 ## Contact
 
