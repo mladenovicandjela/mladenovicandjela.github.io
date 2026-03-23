@@ -9,3 +9,15 @@ header a[href*="github"],
 header p a {
   display: none !important;
 }
+/* ime u jednom redu + stil */
+header h1 {
+  color: #267CB9;
+  white-space: nowrap;
+  text-align: center;
+  font-size: 28px;
+}
+
+/* centriranje */
+header {
+  align-items: center;
+}
