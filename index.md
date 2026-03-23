@@ -38,4 +38,4 @@ My current research focuses on (what I consider) socially relevant problems, tho
 
 ## Contact
 
-You are welcome to send me an email (with or without a fun math problem) at [andjela.mladenovic@mila.quebec](mailto:andjela.mladenovic@mila.quebec).
+You are welcome to send me an email at [andjela.mladenovic@mila.quebec](mailto:andjela.mladenovic@mila.quebec).
