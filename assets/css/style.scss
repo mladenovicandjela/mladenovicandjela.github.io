@@ -1,9 +1,11 @@
-
 ---
 ---
 
 @import "{{ site.theme }}";
 
-a[href*="github.com"] {
+/* sakriva GitHub dugme i ceo taj blok */
+header .buttons,
+header a[href*="github"],
+header p a {
   display: none !important;
 }
