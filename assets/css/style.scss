@@ -1,1 +1,9 @@
 
+---
+---
+
+@import "{{ site.theme }}";
+
+a[href*="github.com"] {
+  display: none !important;
+}
