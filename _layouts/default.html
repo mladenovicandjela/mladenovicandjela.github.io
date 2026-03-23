@@ -12,15 +12,14 @@
   <body>
     <div class="wrapper">
       <header>
-        {% if site.logo %}
-          <img src="{{ site.logo | relative_url }}" alt="Logo" />
-        {% endif %}
-
         <h1>{{ site.title }}</h1>
-        <p>{{ site.description }}</p>
 
-        <!-- GitHub dugme UKLONJENO -->
-      </header>
+  {% if site.logo %}
+          <img src="{{ site.logo | relative_url }}" alt="logo">
+  {% endif %}
+
+        <p>{{ site.description }}</p>
+     </header>
 
       <section>
         {{ content }}
