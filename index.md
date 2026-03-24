@@ -16,6 +16,8 @@ I have examined how AI can be deployed within platforms such as social media to 
 **Deployment structure and incentives.**
 I study strategic questions surrounding AI deployment, including the role of open-source models and how different release strategies shape incentives and system-level outcomes.
 
+### AI Alignment
+
 ## Publications & Preprints
 - **Why Open Source? A Game-Theoretic Analysis of the AI Race**  
   Andjela Mladenovic, Aaron Courville, Gauthier Gidel  
@@ -37,7 +39,6 @@ I study strategic questions surrounding AI deployment, including the role of ope
   Safwan Hossain, Andjela Mladenovic, Nisarg Shah  
   *WWW 2020*
 
-### AI Alignment
 
 ## Background
 
