@@ -35,7 +35,9 @@ I study strategic questions surrounding AI deployment, including the role of ope
 
 - **Designing Fairly Fair Classifiers via Economic Fairness Notions**  
   Safwan Hossain, Andjela Mladenovic, Nisarg Shah  
-  *WWW 2020*  
+  *WWW 2020*
+
+### AI Alignment
 
 ## Background
 
