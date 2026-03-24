@@ -3,11 +3,18 @@ I am a PhD student at [Mila](https://mila.quebec) and [Université de Montréal]
 
 I am interested in questions at the intersection of AI alignment, multi-agent systems, and socially relevant deployment.
 
-At the micro level, I am interested in how preferences and behavioral patterns are formed over time, and whether simulation-based approaches could help us better understand these processes.
+AI Deployment
 
-At the macro level, I am interested in how to design markets and multi-agent environments in which cooperation leads to socially beneficial outcomes.
+My work on AI deployment has focused on three main directions:
 
-More broadly, I am particularly interested in connecting individual-level adaptation with system-level dynamics in settings where traditional assumptions may no longer hold.
+Safety of deployed systems.
+I have studied online adversarial attacks to understand how vulnerable deployed AI systems can be and what this implies for safe deployment in real-world environments.
+
+Deployment of AI systems in existing systems.
+I have examined how AI can be deployed within platforms such as social media to address important societal challenges, including misinformation.
+
+Deployment structure and incentives.
+I study strategic questions surrounding AI deployment, including the role of open-source models and how different release strategies shape incentives and system-level outcomes.
 
 ## Publications & Preprints
 - **Why Open Source? A Game-Theoretic Analysis of the AI Race**  
