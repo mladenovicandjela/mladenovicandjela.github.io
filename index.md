@@ -18,6 +18,8 @@ I study strategic questions surrounding AI deployment, including the role of ope
 
 ### AI Alignment
 
+Lately, I have been thinking about/working on alignment. Specifically, some questions I am interested in exploring are: 
+
 ## Publications & Preprints
 - **Why Open Source? A Game-Theoretic Analysis of the AI Race**  
   Andjela Mladenovic, Aaron Courville, Gauthier Gidel  
