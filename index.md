@@ -1,7 +1,7 @@
 I am a PhD student at [Mila](https://mila.quebec) and [Université de Montréal](https://www.umontreal.ca/), advised by [Gauthier Gidel](https://gauthiergidel.github.io/) and [Aaron Courville](https://scholar.google.com/citations?hl=en&user=km6CP8cAAAAJ).
 
 
-I am interested in questions at the intersection of AI alignment, multi-agent systems, and socially relevant deployment.
+I am interested in questions of AI deployment and AI alignment,analyzed through  multi-agent systems and game theoretical lenses.
 
 ### AI Deployment
 
