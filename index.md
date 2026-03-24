@@ -3,7 +3,7 @@ I am a PhD student at [Mila](https://mila.quebec) and [Université de Montréal]
 
 I am interested in questions at the intersection of AI alignment, multi-agent systems, and socially relevant deployment.
 
-AI Deployment
+###AI Deployment
 
 My work on AI deployment has focused on three main directions:
 
