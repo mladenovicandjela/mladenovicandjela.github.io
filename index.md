@@ -7,13 +7,13 @@ I am interested in questions at the intersection of AI alignment, multi-agent sy
 
 My work on AI deployment has focused on three main directions:
 
-Safety of deployed systems.
+**Safety of deployed systems.**
 I have studied online adversarial attacks to understand how vulnerable deployed AI systems can be and what this implies for safe deployment in real-world environments.
 
-Deployment of AI systems in existing systems.
+**Deployment of AI systems in existing systems.**
 I have examined how AI can be deployed within platforms such as social media to address important societal challenges, including misinformation.
 
-Deployment structure and incentives.
+**Deployment structure and incentives.**
 I study strategic questions surrounding AI deployment, including the role of open-source models and how different release strategies shape incentives and system-level outcomes.
 
 ## Publications & Preprints
