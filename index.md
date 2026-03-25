@@ -5,16 +5,10 @@ I study questions of AI deployment and AI alignment through the lenses of multi-
 
 ### AI Deployment
 
-My research asks how AI can be incorporated to address pressing real-world problems, and how these systems can be deployed safely—both at the level of individual applications and at the level of system-wide incentives and societal impact.
-
-**Deployment of AI systems in existing systems.**
-I have examined how AI can be deployed within platforms such as social media to address misinformation.
-
-**Safety of deployed systems.**
-I have studied online adversarial attacks to understand how vulnerable deployed AI systems can be and what this implies for safe deployment in real-world environments.
-
-**Deployment structure and incentives.**
-I study strategic questions surrounding AI deployment, including the role of open-source models and how different release strategies shape incentives and system-level outcomes.
+My research asks how AI can be incorporated to address
+[pressing real-world problems](https://arxiv.org/abs/2310.12065)
+and how these systems can be deployed safely
+[Online adversarial attacks](https://arxiv.org/abs/2103.02014)—from individual applications to large-scale systems that shape incentives and societal outcomes.
 
 ### AI Alignment
 
