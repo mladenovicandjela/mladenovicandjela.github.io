@@ -46,7 +46,7 @@ Lately, I have been thinking about/working on alignment. Specifically, some ques
 
 Prior to coming to Canada, I spent the first 18 years of my life in Belgrade, Serbia, where I attended [Mathematical Grammar School](https://www.mg.edu.rs/en) and competed in mathematics competitions. I later moved to Canada, where I completed my undergraduate studies in engineering at the [University of Toronto](https://www.utoronto.ca/).
 
-My current research is primarily motivated by (what I consider) pressing real-world problems, but I still occasionally get distracted by the elegance of solutions to open problems in combinatorics and online algorithms, and I am always happy to hear about them.
+My current research is primarily motivated by (what I consider) pressing real-world problems, but I still occasionally get distracted by the elegance of solutions to open problems in combinatorics and online algorithms and I always enjoy hearing about new ones.
 
 ## Contact
 
