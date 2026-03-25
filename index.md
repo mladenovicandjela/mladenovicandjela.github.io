@@ -11,6 +11,8 @@ and how these systems can be deployed safely
 
 ### AI Alignment
 
+Different researchers use the term AI alignment in different ways. In my work, I use it to refer to the development of new methods and principles that guide how AI systems should behave, while AI deployment focuses on understanding how existing methods behave in practice.
+
 Lately, I have been thinking about/working on alignment. Specifically, some questions I am interested in exploring are: 
 
 ## Publications & Preprints
