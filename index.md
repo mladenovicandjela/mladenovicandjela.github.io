@@ -5,10 +5,9 @@ I study questions of AI deployment and AI alignment through the lenses of multi-
 
 ### AI Deployment
 
-My research asks how AI can be incorporated to address
-[pressing real-world problems](https://arxiv.org/abs/2310.12065)
+My research asks how AI can be incorporated to address pressing real-world problems
 and how these systems can be deployed safely
-[Online adversarial attacks](https://arxiv.org/abs/2103.02014)—from individual applications to large-scale systems that shape incentives and societal outcomes.
+—from individual applications to large-scale systems that shape incentives and societal outcomes.
 
 ### AI Alignment
 
