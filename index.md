@@ -5,7 +5,7 @@ I am interested in questions of AI deployment and AI alignment,analyzed through 
 
 ### AI Deployment
 
-My work on AI deployment has focused on three main directions:
+My research asks how AI can be incorporated to address pressing real-world problems, and how these systems can be deployed safely—both at the level of individual applications and at the level of system-wide incentives and societal impact.
 
 **Safety of deployed systems.**
 I have studied online adversarial attacks to understand how vulnerable deployed AI systems can be and what this implies for safe deployment in real-world environments.
