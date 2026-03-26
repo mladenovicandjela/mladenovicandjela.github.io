@@ -15,7 +15,7 @@ Different researchers use the term AI alignment in different ways. In my work, I
 
 More recently, my work has turned toward alignment, where I explore ideas from bounded rationality and invariance as potential foundations for guiding system behavior in complex, multi-agent settings.
 
-### Publications & Preprints
+## Publications & Preprints
 
 - **Why Open Source? A Game-Theoretic Analysis of the AI Race**  
   Andjela Mladenovic, Aaron Courville, Gauthier Gidel  
