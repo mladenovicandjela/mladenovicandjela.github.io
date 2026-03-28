@@ -46,4 +46,4 @@ My current research is primarily motivated by (what I consider) pressing real-wo
 
 ## Contact
 
-You are welcome to contact me at andjela.mladenovic@mila.quebec.
+You are welcome to contact me at “firstname”.”lastname”@mila.quebec 
