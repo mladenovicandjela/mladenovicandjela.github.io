@@ -19,7 +19,7 @@ More recently, my work has turned toward alignment, where I explore ideas from b
 
 - **Why Open Source? A Game-Theoretic Analysis of the AI Race**  
   Andjela Mladenovic, Aaron Courville, Gauthier Gidel  
-  *to appear in the Springer's Lecture Notes in Artificial Intelligence (LNAI) book series, COINE 2026* 
+  *to appear in the Springer Lecture Notes in Artificial Intelligence (LNAI) series, COINE 2026* 
 
 - **A Persuasive Approach to Combating Misinformation**  
   Safwan Hossain, Andjela Mladenovic, Yiling Chen, Gauthier Gidel  
